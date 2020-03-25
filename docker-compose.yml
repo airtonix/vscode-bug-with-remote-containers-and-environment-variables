@@ -1,0 +1,6 @@
+version: '2.3'
+
+services:
+
+  the-service:
+    image: microsoft/vscode-bug-with-remote-containers-and-environment-variables

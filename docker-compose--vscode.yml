@@ -1,0 +1,7 @@
+version: '2.3'
+
+services:
+
+  the-service:
+    image: microsoft/vscode-bug-with-remote-containers-and-environment-variables
+    command: /bin/sh -c "while sleep 1000; do :; done"

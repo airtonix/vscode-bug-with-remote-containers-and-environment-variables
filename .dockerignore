@@ -1,0 +1,4 @@
+dockerfiles/*
+docker-compose*
+dockerignore
+.devcontainer*
